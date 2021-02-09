@@ -1,0 +1,15 @@
+# Update version
+
+1. Fetch
+2. Check for new stable tags
+3. Checkout latest new tag
+4. Ensure/update node-sass to latest version in 4.14 series: https://www.npmjs.com/package/node-sass?activeTab=versions
+5. Update audit results: npm audit fix --only=prod
+6. Force update audit resutls: npm audit fix --only=prod --force
+
+# Build instructions:
+
+1. Run ./build-firefox
+2. Install generated zip to firefox: dist/dist-firefox-<version>.zip
+
+
