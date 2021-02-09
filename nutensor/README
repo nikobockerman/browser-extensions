@@ -1,0 +1,9 @@
+# Build instructions:
+
+1. Update nuAssets repo to latest master
+2. Update nuTensor repo to proper state
+  - Check current master version
+  - Check open PRs
+  - Check available tags
+3. Build chosen repo state: ./build-firefox
+4. New .xpi appears in dist/build/ directory with the specified version

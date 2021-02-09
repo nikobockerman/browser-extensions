@@ -7,3 +7,9 @@
 [submodule "ublock/uBlock"]
 	path = ublock/uBlock
 	url = https://github.com/nikobockerman/uBlock
+[submodule "nutensor/nuAssets"]
+	path = nutensor/nuAssets
+	url = https://github.com/geekprojects/nuAssets
+[submodule "nutensor/nuTensor"]
+	path = nutensor/nuTensor
+	url = https://github.com/nikobockerman/nuTensor
