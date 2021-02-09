@@ -1,0 +1,6 @@
+# Build instructions:
+
+1. Update uAssets repo to latest master
+2. Fetch tags for uBlock repo and checkout latest stable tag
+3. Build new version by running in uBlock repo: `./build-firefox`
+4. New .xpi appears in uBlock/dist/build/ directory with the specified version

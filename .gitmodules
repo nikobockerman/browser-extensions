@@ -1,3 +1,9 @@
 [submodule "bitwarden-extension/browser"]
 	path = bitwarden-extension/browser
 	url = https://github.com/nikobockerman/bitwarden-browser
+[submodule "ublock/uAssets"]
+	path = ublock/uAssets
+	url = https://github.com/uBlockOrigin/uAssets
+[submodule "ublock/uBlock"]
+	path = ublock/uBlock
+	url = https://github.com/nikobockerman/uBlock
