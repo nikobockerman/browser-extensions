@@ -9,7 +9,7 @@
 
 # Build instructions:
 
-1. Run ./build-firefox
-2. Install generated zip to firefox: dist/dist-firefox-<version>.zip
-
+1*. If this wasn't done already, run: npm install
+2. Run ./build-firefox
+3. Install generated zip to firefox: dist/dist-firefox-<version>.zip
 
